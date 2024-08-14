@@ -1,0 +1,20 @@
+.pag {
+    border: 1px solid rgba(0, 0, 0, 0.532);
+    background-color: white;
+    color: black;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+.car {
+
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    margin-left: 7px;
+    margin-bottom: 1px;
+    padding-top: 498px;
+    padding-left: 136px;
+
+}
